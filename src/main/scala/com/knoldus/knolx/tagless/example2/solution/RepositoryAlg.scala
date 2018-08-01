@@ -5,6 +5,6 @@ import cats.InjectK
 import cats.data.EitherK
 import cats.free.Free
 
-
 object RepositoryAlg {
+
 }
