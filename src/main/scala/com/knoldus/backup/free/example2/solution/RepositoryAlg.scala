@@ -1,4 +1,4 @@
-package com.knoldus.backup.tagless.example2.solution
+package com.knoldus.backup.free.example2.solution
 
 import java.util.UUID
 import cats.InjectK

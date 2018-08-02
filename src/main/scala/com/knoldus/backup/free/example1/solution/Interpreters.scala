@@ -1,4 +1,4 @@
-package com.knoldus.backup.tagless.example1.solution
+package com.knoldus.backup.free.example1.solution
 
 import cats.{Id, ~>}
 import scala.concurrent.Future

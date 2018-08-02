@@ -1,10 +1,10 @@
-package com.knoldus.backup.tagless.example2.solution
+package com.knoldus.backup.free.example2.solution
 
 import java.util.UUID
 import cats.free.Free
 import cats.implicits._
-import com.knoldus.backup.tagless.example2.solution.Interpreters._
-import com.knoldus.backup.tagless.example2.solution.RepositoryAlg.{UserEmailAlg, _}
+import com.knoldus.backup.free.example2.solution.Interpreters._
+import com.knoldus.backup.free.example2.solution.RepositoryAlg.{UserEmailAlg, _}
 import scala.concurrent.Await
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.duration._

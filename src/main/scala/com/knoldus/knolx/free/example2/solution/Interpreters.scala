@@ -1,4 +1,4 @@
-package com.knoldus.knolx.tagless.example2.solution
+package com.knoldus.knolx.free.example2.solution
 
 import cats.~>
 import scala.concurrent.Future

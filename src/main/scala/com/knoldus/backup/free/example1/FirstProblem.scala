@@ -1,4 +1,4 @@
-package com.knoldus.backup.tagless.example1
+package com.knoldus.backup.free.example1
 
 import java.util.UUID
 import scala.concurrent.ExecutionContext.Implicits.global
